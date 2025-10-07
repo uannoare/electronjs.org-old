@@ -84,7 +84,7 @@
     "rtl-detect": "^1.0.4",
     "schemeless": "^1.2.0",
     "search-with-your-keyboard": "^2.0.0",
-    "semver": "^7.3.5",
+    "semver": "^7.7.2",
     "set-query-string": "^2.2.0",
     "tocbot": "^4.13.0",
     "ultimate-pagination": "^1.0.0"
