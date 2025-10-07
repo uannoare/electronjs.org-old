@@ -58,7 +58,7 @@
     "express-request-language": "^1.1.15",
     "express-useragent": "^1.0.15",
     "fast-memoize": "^2.5.2",
-    "feed": "^4.2.2",
+    "feed": "^5.1.0",
     "flat": "^5.0.2",
     "fs-extra": "^10.0.0",
     "got": "^11.8.2",
