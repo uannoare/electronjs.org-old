@@ -3841,10 +3841,10 @@ express-request-language@^1.1.15:
     accept-language "^3.0.4"
     bcp47 "^1.1.2"
 
-express-useragent@^1.0.15:
-  version "1.0.15"
-  resolved "https://registry.yarnpkg.com/express-useragent/-/express-useragent-1.0.15.tgz#cefda5fa4904345d51d3368b117a8dd4124985d9"
-  integrity sha512-eq5xMiYCYwFPoekffMjvEIk+NWdlQY9Y38OsTyl13IvA728vKT+q/CSERYWzcw93HGBJcIqMIsZC5CZGARPVdg==
+express-useragent@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/express-useragent/-/express-useragent-2.0.2.tgz#837f59594f9f6a068b8602da1f5f267f2781d01e"
+  integrity sha512-STtNWx33HtKbE9Dpe8DTgivEMJIZh2mmFqjq9OhvHEEkB6VVjOTYGrc9djzVN5yW3s245OTDExCLjZ5oEFGp9w==
 
 express@^4.17.1:
   version "4.17.1"
